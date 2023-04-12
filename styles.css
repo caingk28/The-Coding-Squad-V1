@@ -1,0 +1,128 @@
+.body{
+font-family: "montserrat", sans-serif;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+}
+
+.bg-pink-blue {
+    background-color: rgba(0,38,160,.9) !important;
+    background: linear-gradient(-45deg,rgba(255,5,155,.9),rgba(120,107,233,.9));
+}
+
+.navbar.navbar-transparent {
+    background-color: transparent!important;
+    background: transparent!important;
+}
+
+.navbar.navbar-transparent {
+    background-color: transparent!important;
+    box-shadow: none;
+    color: #fff;
+    padding-top: 20px!important;
+}
+
+.features-5 {
+    margin-top: 60px;
+    font-family: 'Montserrat' sans-serif;
+}
+
+.logo1 {
+    width: 200px;
+    height: 200px;
+}
+
+.tablet-container {
+padding-top: 30px;
+}
+
+.main-title {
+font-family: "Montserrat", sans-serif;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+.subheading {
+font-size: 20px;
+font-weight: bold;
+color: ivory;
+}
+
+.title {
+    text-align: center;
+}
+
+.img-rounded-maze {
+    height: 295px;
+}
+
+.card-description {
+    font-weight: 200;
+    color: black;;
+}
+
+.col-md-6 {
+  padding: 10px 10px;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.img-shea{
+    height:244px;
+   
+}
+.card-pricing {
+    text-align: center;
+}
+
+.card-pricing ul li {
+
+    text-align: center;
+    padding: 12px 0;
+    border-bottom: 1px solid hsla(0,0%,53%,.3);
+}
+.card-pricing ul {
+    list-style: none;
+    padding: 0;
+    max-width: 240px;
+    margin: 20px auto;
+}
+
+.h1 small, h1 small {
+    font-weight: 700;
+    text-transform: none;
+    opacity: .8;
+}
+
+.description {
+    color: black;
+}
+
+.col-md-4 {
+    margin-bottom: 80px;
+}
+
+.contactus-1 .card-contact {
+    margin-top: 60px;
+}
+
+.title-contact {
+    margin-top: 80px;
+    color: #fff;
+    font-family: "montserrat", sans-serif;
+}
+
+
+
+.message-description {
+    color: #fff;
+    font-family: "montserrat", sans-serif;
+    font-weight:200;
+
+}
